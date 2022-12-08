@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61454c8b-0286-4819-ab10-afcf82b5684e" name="Changes" comment="marge release and develop">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/test_db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="61454c8b-0286-4819-ab10-afcf82b5684e" name="Changes" comment="Lab3 testing deploy fail">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670507096273</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lab3 testing deploy fail">
+      <created>1670523314051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670523314051</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +285,8 @@
     <MESSAGE value="Jar with intellJ" />
     <MESSAGE value="update system jar, docker, img" />
     <MESSAGE value="marge release and develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="marge release and develop" />
+    <MESSAGE value="Lab3 testing deploy fail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 testing deploy fail" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
