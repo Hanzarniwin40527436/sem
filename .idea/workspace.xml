@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61454c8b-0286-4819-ab10-afcf82b5684e" name="Changes" comment="v0.1.alpha.3">
+    <list default="true" id="61454c8b-0286-4819-ab10-afcf82b5684e" name="Changes" comment="employee and salries output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670922728744</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="employee and salries output">
+      <created>1670940202581</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670940202581</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +310,8 @@
     <MESSAGE value="Lab3 testing deploy fail" />
     <MESSAGE value="workflow update" />
     <MESSAGE value="v0.1.alpha.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.1.alpha.3" />
+    <MESSAGE value="employee and salries output" />
+    <option name="LAST_COMMIT_MESSAGE" value="employee and salries output" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
